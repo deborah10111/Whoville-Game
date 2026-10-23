@@ -1,3 +1,5 @@
+# Whoville-Game
+
 # Welcome to Whoville — multiplayer prototype
 
 A React/Vite multiplayer prototype using Supabase anonymous guest sessions and Row Level Security for player-specific views.
